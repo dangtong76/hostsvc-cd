@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: hostservice-container
-        image: dangtong/node-app:1.0
+        images: dangtong/node-app:1612c0f4ed83beb80bb47f2d03d5d1046a6d2ba2
         resources:
           limits:
             memory: "128Mi"
