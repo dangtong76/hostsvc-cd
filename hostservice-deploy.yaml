@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: hostservice-container
-        image: dangtong/hostservice:1612c0f4ed83beb80bb47f2d03d5d1046a6d2ba2
+        image: dangtong/hostservice:d2f1ef67dab8d70466f966d7229928468a4d5945
         resources:
           limits:
             memory: "128Mi"
